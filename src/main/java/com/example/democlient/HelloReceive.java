@@ -1,6 +1,5 @@
 package com.example.democlient;
 
-import com.example.demo.UserVo;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
